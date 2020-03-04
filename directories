@@ -1,0 +1,17 @@
+# You can add comments to these files with #
+h	~/
+d	~/Documents
+D	~/Downloads
+m	~/Music
+pp	~/Pictures
+vv	~/Videos
+cf	~/.config
+sc	~/.local/bin
+mn	/mnt
+
+#ivos bookmarked folders
+pj	~/projects
+ag	~/projects/bioinfo/ag-russell
+dn	~/projects/bioinfo/repos/dash_ngl
+ha	~/projects/hackathons
+ca	~/projects/hackathons/cama/CAMA-CORE-Example

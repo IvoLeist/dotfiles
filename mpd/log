@@ -1,0 +1,288 @@
+Mar 02 15:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 15:26 : exception: Failed to open '/home/ivo/.config/mpd/state': No such file or directory
+Mar 02 15:26 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 02 15:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 15:36 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 02 15:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 15:58 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 02 16:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 16:01 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 02 16:10 : client: [0] opened from 127.0.0.1:35152
+Mar 02 16:10 : client: [0] closed
+Mar 02 16:11 : client: [1] opened from 127.0.0.1:35160
+Mar 02 16:11 : client: [2] opened from 127.0.0.1:35722
+Mar 02 16:12 : client: [3] opened from 127.0.0.1:35730
+Mar 02 16:13 : client: [4] opened from 127.0.0.1:36260
+Mar 02 16:13 : client: [4] closed
+Mar 02 16:15 : client: [5] opened from 127.0.0.1:36268
+Mar 02 16:15 : client: [6] opened from 127.0.0.1:36280
+Mar 02 16:15 : client: [6] closed
+Mar 02 17:47 : client: [7] opened from 127.0.0.1:37592
+Mar 02 17:47 : client: [7] closed
+Mar 02 17:49 : client: [8] opened from 127.0.0.1:37602
+Mar 02 17:49 : client: [8] closed
+Mar 02 18:15 : client: [9] opened from 127.0.0.1:38038
+Mar 02 18:15 : client: [10] opened from 127.0.0.1:38042
+Mar 02 18:15 : client: [10] closed
+Mar 02 18:15 : client: [9] closed
+Mar 02 18:43 : client: [11] opened from 127.0.0.1:38486
+Mar 02 18:43 : client: [11] closed
+Mar 02 18:44 : client: [12] opened from 127.0.0.1:38520
+Mar 02 18:44 : client: [12] closed
+Mar 02 18:44 : client: [13] opened from 127.0.0.1:38524
+Mar 02 18:44 : client: [13] closed
+Mar 02 18:44 : client: [14] opened from 127.0.0.1:38528
+Mar 02 18:44 : client: [14] closed
+Mar 02 18:46 : client: [15] opened from 127.0.0.1:38550
+Mar 02 18:46 : client: [15] closed
+Mar 02 18:46 : client: [16] opened from 127.0.0.1:38554
+Mar 02 18:46 : client: [16] closed
+Mar 02 18:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 18:47 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 02 18:48 : client: [0] opened from 127.0.0.1:40104
+Mar 02 18:48 : client: [0] closed
+Mar 02 19:04 : client: [1] opened from 127.0.0.1:40130
+Mar 02 19:05 : client: [1] closed
+Mar 02 19:05 : client: [2] opened from 127.0.0.1:40138
+Mar 02 19:08 : client: [3] opened from 127.0.0.1:40154
+Mar 02 19:08 : client: [4] opened from 127.0.0.1:40162
+Mar 02 19:08 : client: [5] opened from 127.0.0.1:40170
+Mar 02 19:08 : client: [5] closed
+Mar 02 19:15 : client: [6] opened from 127.0.0.1:40182
+Mar 02 19:15 : client: [6] closed
+Mar 02 19:20 : client: [7] opened from 127.0.0.1:40194
+Mar 02 19:20 : client: [8] opened from 127.0.0.1:40198
+Mar 02 19:20 : client: [8] closed
+Mar 02 19:32 : client: [9] opened from 127.0.0.1:40216
+Mar 02 19:32 : client: [9] closed
+Mar 02 19:32 : client: [10] opened from 127.0.0.1:40220
+Mar 02 19:32 : client: [10] closed
+Mar 02 19:32 : client: [11] opened from 127.0.0.1:40224
+Mar 02 19:32 : client: [11] closed
+Mar 02 19:32 : client: [12] opened from 127.0.0.1:40228
+Mar 02 19:32 : client: [12] closed
+Mar 02 19:32 : client: [13] opened from 127.0.0.1:40236
+Mar 02 19:32 : client: [13] closed
+Mar 02 19:32 : client: [14] opened from 127.0.0.1:40242
+Mar 02 19:32 : client: [14] closed
+Mar 02 19:32 : client: [15] opened from 127.0.0.1:40248
+Mar 02 19:32 : client: [15] closed
+Mar 02 19:32 : client: [16] opened from 127.0.0.1:40254
+Mar 02 19:32 : client: [16] closed
+Mar 02 19:32 : client: [17] opened from 127.0.0.1:40260
+Mar 02 19:32 : client: [17] closed
+Mar 02 19:36 : client: [2] closed
+Mar 02 19:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 19:37 : client: [0] opened from 127.0.0.1:45412
+Mar 02 19:37 : client: [0] closed
+Mar 02 19:37 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 02 19:38 : client: [1] opened from 127.0.0.1:45426
+Mar 02 19:38 : client: [1] closed
+Mar 02 19:38 : client: [2] opened from 127.0.0.1:45430
+Mar 02 19:38 : client: [2] closed
+Mar 02 19:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 19:40 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 02 19:58 : client: [0] opened from 127.0.0.1:50706
+Mar 02 19:58 : client: [0] closed
+Mar 02 20:06 : client: [1] opened from 127.0.0.1:50724
+Mar 02 20:07 : client: [1] closed
+Mar 02 20:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 20:15 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 02 20:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 20:19 : client: [0] opened from 127.0.0.1:59232
+Mar 02 20:19 : client: [0] closed
+Mar 02 20:19 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 02 20:22 : client: [1] opened from 127.0.0.1:59244
+Mar 02 20:22 : client: [1] closed
+Mar 02 20:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 20:25 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 02 20:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 20:33 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 02 20:34 : client: [0] opened from 127.0.0.1:59214
+Mar 02 20:41 : client: [1] opened from 127.0.0.1:59218
+Mar 02 20:45 : client: [2] opened from 127.0.0.1:59228
+Mar 02 20:45 : client: [2] closed
+Mar 03 10:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 03 10:31 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 03 10:32 : client: [0] opened from 127.0.0.1:55096
+Mar 03 10:33 : client: [1] opened from 127.0.0.1:55100
+Mar 03 10:33 : client: [2] opened from 127.0.0.1:55104
+Mar 03 10:33 : client: [2] closed
+Mar 03 10:38 : client: [1] closed
+Mar 03 10:38 : client: [0] closed
+Mar 03 10:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 03 10:39 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 03 10:41 : client: [0] opened from 127.0.0.1:43360
+Mar 03 10:41 : client: [0] closed
+Mar 03 10:43 : client: [1] opened from 127.0.0.1:43386
+Mar 03 10:43 : client: [2] opened from 127.0.0.1:43390
+Mar 03 11:28 : client: [3] opened from 127.0.0.1:43894
+Mar 03 11:28 : client: [3] closed
+Mar 03 11:57 : client: [4] opened from 127.0.0.1:44206
+Mar 03 11:57 : client: [4] closed
+Mar 03 11:57 : client: [5] opened from 127.0.0.1:44214
+Mar 03 11:57 : client: [6] opened from 127.0.0.1:44220
+Mar 03 11:58 : client: [6] closed
+Mar 03 12:06 : client: [7] opened from 127.0.0.1:44364
+Mar 03 12:06 : client: [7] closed
+Mar 03 12:09 : client: [8] opened from 127.0.0.1:44398
+Mar 03 12:09 : client: [8] closed
+Mar 03 12:10 : client: [9] opened from 127.0.0.1:44402
+Mar 03 12:10 : client: [9] closed
+Mar 03 12:29 : client: [10] opened from 127.0.0.1:44584
+Mar 03 12:29 : client: [11] opened from 127.0.0.1:44588
+Mar 03 12:29 : client: [11] closed
+Mar 03 12:29 : client: [10] closed
+Mar 03 12:32 : client: [12] opened from 127.0.0.1:44596
+Mar 03 12:32 : client: [12] closed
+Mar 03 12:41 : client: [13] opened from 127.0.0.1:44682
+Mar 03 12:41 : client: [13] closed
+Mar 03 12:41 : client: [14] opened from 127.0.0.1:44686
+Mar 03 12:41 : client: [15] opened from 127.0.0.1:44690
+Mar 03 12:41 : client: [15] closed
+Mar 03 12:41 : client: [14] closed
+Mar 03 12:44 : client: [16] opened from 127.0.0.1:44768
+Mar 03 12:44 : client: [17] opened from 127.0.0.1:44772
+Mar 03 12:44 : client: [17] closed
+Mar 03 12:44 : client: [18] opened from 127.0.0.1:44782
+Mar 03 12:44 : client: [18] closed
+Mar 03 12:44 : client: [19] opened from 127.0.0.1:44786
+Mar 03 12:44 : client: [19] closed
+Mar 03 12:44 : client: [5] closed
+Mar 03 12:44 : client: [16] closed
+Mar 03 12:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 03 12:45 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 03 12:45 : client: [0] opened from 127.0.0.1:33096
+Mar 03 12:45 : client: [1] opened from 127.0.0.1:33100
+Mar 03 12:45 : client: [1] closed
+Mar 03 12:45 : client: [0] closed
+Mar 03 12:52 : client: [2] opened from 127.0.0.1:33198
+Mar 03 12:52 : client: [2] closed
+Mar 03 12:52 : client: [3] opened from 127.0.0.1:33202
+Mar 03 12:52 : client: [3] closed
+Mar 03 12:52 : client: [4] opened from 127.0.0.1:33206
+Mar 03 12:52 : client: [4] closed
+Mar 03 12:57 : client: [5] opened from 127.0.0.1:33240
+Mar 03 12:57 : client: [6] opened from 127.0.0.1:33244
+Mar 03 12:57 : client: [5] closed
+Mar 03 12:57 : client: [6] closed
+Mar 03 12:57 : client: [7] opened from 127.0.0.1:33252
+Mar 03 13:05 : client: [8] opened from 127.0.0.1:33338
+Mar 03 14:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 03 14:40 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 03 14:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 03 14:55 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 03 15:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 03 15:11 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 03 16:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 03 16:16 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 03 16:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 03 16:20 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 03 16:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 03 16:26 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 03 16:26 : client: [0] opened from 127.0.0.1:58306
+Mar 03 16:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 03 16:34 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 03 16:51 : client: [0] opened from 127.0.0.1:34322
+Mar 03 16:51 : client: [1] opened from 127.0.0.1:34326
+Mar 03 16:51 : client: [1] closed
+Mar 03 17:06 : client: [2] opened from 127.0.0.1:34348
+Mar 03 17:06 : client: [2] closed
+Mar 03 17:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 03 17:07 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 03 17:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 03 17:08 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 03 17:16 : client: [0] opened from 127.0.0.1:52444
+Mar 03 17:16 : client: [0] closed
+Mar 03 17:19 : client: [1] opened from 127.0.0.1:52458
+Mar 03 17:19 : client: [1] closed
+Mar 03 17:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 03 17:20 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 03 17:22 : client: [0] opened from 127.0.0.1:53900
+Mar 03 17:22 : client: [0] closed
+Mar 03 17:24 : client: [1] opened from 127.0.0.1:53904
+Mar 03 17:24 : client: [1] closed
+Mar 03 17:24 : client: [2] opened from 127.0.0.1:53908
+Mar 03 17:24 : client: [2] closed
+Mar 03 17:27 : client: [3] opened from 127.0.0.1:53916
+Mar 03 17:36 : client: [3] closed
+Mar 03 17:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 03 17:37 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 03 17:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 03 17:39 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 03 17:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 03 17:50 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 03 17:50 : client: [0] opened from 127.0.0.1:42772
+Mar 03 17:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 03 17:53 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 03 18:00 : client: [0] opened from 127.0.0.1:43444
+Mar 03 18:07 : client: [0] closed
+Mar 03 18:07 : client: [1] opened from 127.0.0.1:43450
+Mar 03 18:10 : client: [1] closed
+Mar 03 18:10 : client: [2] opened from 127.0.0.1:43456
+Mar 03 18:14 : client: [2] closed
+Mar 03 18:14 : client: [3] opened from 127.0.0.1:43462
+Mar 03 18:34 : client: [3] closed
+Mar 03 18:34 : client: [4] opened from 127.0.0.1:43812
+Mar 03 21:11 : client: [4] closed
+Mar 03 21:11 : client: [5] opened from 127.0.0.1:45410
+Mar 03 21:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 03 21:14 : client: [0] opened from 127.0.0.1:60874
+Mar 03 21:14 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 03 23:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 03 23:04 : client: [0] opened from 127.0.0.1:44406
+Mar 03 23:04 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 03 23:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 03 23:56 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 03 23:57 : client: [0] opened from 127.0.0.1:44914
+Mar 04 00:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 00:03 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 04 00:03 : client: [0] opened from 127.0.0.1:36320
+Mar 04 00:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 00:06 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 04 00:06 : client: [0] opened from 127.0.0.1:52418
+Mar 04 00:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 00:10 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 04 00:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 00:11 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 04 00:13 : client: [0] opened from 127.0.0.1:45384
+Mar 04 00:13 : client: [1] opened from 127.0.0.1:45386
+Mar 04 00:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 00:26 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 04 00:27 : client: [0] opened from 127.0.0.1:47350
+Mar 04 01:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 01:11 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 04 01:11 : client: [0] opened from 127.0.0.1:53034
+Mar 04 01:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 01:20 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 04 01:20 : client: [0] opened from 127.0.0.1:56944
+Mar 04 01:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 01:23 : client: [0] opened from 127.0.0.1:37146
+Mar 04 01:23 : client: [0] closed
+Mar 04 01:23 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 04 01:23 : client: [1] opened from 127.0.0.1:37156
+Mar 04 01:23 : client: [1] closed
+Mar 04 01:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 01:24 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 04 01:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 01:26 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 04 01:30 : client: [0] opened from 127.0.0.1:57400
+Mar 04 01:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 01:31 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 04 01:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 01:32 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 04 01:34 : client: [0] opened from 127.0.0.1:34874
+Mar 04 01:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 01:41 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 04 01:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 01:51 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 04 01:53 : client: [0] opened from 127.0.0.1:46396
+Mar 04 01:55 : client: [0] closed
+Mar 04 01:55 : client: [1] opened from 127.0.0.1:46398
+Mar 04 02:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 02:05 : client: [0] opened from 127.0.0.1:58256
+Mar 04 02:05 : avahi: Service 'Music Player @ ivo-t560' successfully established.
+Mar 04 02:18 : client: [0] closed
+Mar 04 12:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 12:06 : client: [0] opened from 127.0.0.1:55454
+Mar 04 12:06 : avahi: Service 'Music Player @ ivo-t560' successfully established.
