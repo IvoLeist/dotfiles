@@ -5,9 +5,9 @@ Terminal: st
 Shell: zsh 
 Editor: neovim
 
-my dotfiles are mainly based on the setup of Luke Smith (see the his README below)
+my dotfiles are mainly based on the setup of Luke Smith (see his README below)
 and my nvim configuration is based on the dotfiles of MoritzWM <https://github.com/MoritzWM/dotfiles>
------------------------------------------------------------------------------------------------------------
+
 # The Voidrice (Luke Smith <https://lukesmith.xyz>'s dotfiles)
 
 These are the dotfiles deployed by [LARBS](https://larbs.xyz) and as seen on [my YouTube channel](https://youtube.com/c/lukesmithxyz).
